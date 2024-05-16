@@ -38,5 +38,70 @@
         "version_url": "https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes#whats-new-in-visual-studio-2019-version-1611",
         "details_info": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements",
         "download": "https://aka.ms/vs/16/release/vs_community.exe"
+    },
+    {
+        "name": "VS Codium",
+        "name_url": "https://visualstudio.microsoft.com/",
+        "version": "1.81.1 (10 August 2021)",
+        "version_url": "https://github.com/VSCodium/vscodium/releases/tag/1.81.1.23222",
+        "details_info": "https://github.com/VSCodium/vscodium/blob/master/docs/index.md",
+        "download": "https://github.com/VSCodium/vscodium/releases/download/1.81.1.23222/VSCodiumSetup-x64-1.81.1.23222.exe"
+    },
+    {
+        "name": "Spotify",
+        "name_url": "https://www.spotify.com/us/download/windows/",
+        "version": "1.2.5 (?? ?? 2023)",
+        "version_url": "-",
+        "details_info": "-",
+        "download": "https://download.scdn.co/SpotifyFull7-8-8.1.exe"
+    },
+    {
+        "name": "VxKex",
+        "name_url": "https://github.com/vxiiduu/VxKex/",
+        "version": "1.1.1.1375 (19 March 2024)",
+        "version_url": "https://github.com/vxiiduu/VxKex/releases/tag/Version1.1.1.1375",
+        "details_info": "-",
+        "download": "https://github.com/vxiiduu/VxKex/releases/download/Version1.1.1.1375/KexSetup_Release_1_1_1_1375.exe"
+    },
+    {
+        "name": "[Supported] Supremium",
+        "name_url": "https://win32subsystem.live/supermium/",
+        "version": "122 (14 May 2024)",
+        "version_url": "https://github.com/win32ss/supermium/releases/tag/v122-r5",
+        "details_info": "-",
+        "download": "https://win32subsystem.live/supermium/setup-download.php?architecture=64"
+    },
+    {
+        "name": "[Supported] Waterfox",
+        "name_url": "https://visualstudio.microsoft.com/",
+        "version": "G6.0.14 (14 May 2024)",
+        "version_url": "https://github.com/BrowserWorks/Waterfox/releases/tag/G6.0.14",
+        "details_info": "https://www.waterfox.net/docs/about-waterfox/",
+        "download": "https://cdn1.waterfox.net/waterfox/releases/latest/windows"
+    },
+    {
+        "name": "[Supported] MPC-HC",
+        "name_url": "https://visualstudio.microsoft.com/",
+        "version": "2.2.1 (10 April 2024)",
+        "version_url": "https://github.com/clsid2/mpc-hc/releases/tag/2.2.1",
+        "details_info": "-",
+        "download": "https://github.com/clsid2/mpc-hc/releases/download/2.2.1/MPC-HC.2.2.1.x64.exe"
+    },
+    {
+        "name": "Brave",
+        "name_url": "https://visualstudio.microsoft.com/",
+        "version": "1.47 (25 January 2023)",
+        "version_url": "https://github.com/brave/brave-browser/releases/tag/v1.47.186",
+        "details_info": "https://support.brave.com/hc/en-us/articles/360021357112-What-are-the-system-requirements-to-install-Brave",
+        "download": "https://github.com/brave/brave-browser/releases/download/v1.47.186/BraveBrowserSetup.exe"
+    },
+    {
+        "name": "[Supported] Java 17",
+        "name_url": "https://visualstudio.microsoft.com/",
+        "version": "17.0.11 (16 April 2024)",
+        "version_url": "https://www.oracle.com/java/technologies/javase/17-0-11-relnotes.html",
+        "details_info": "https://www.oracle.com/java/technologies/javase/17-relnote-issues.html",
+        "download": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe"
     }
+
 ]
